@@ -17,7 +17,7 @@
   font-style: italic;
 }
 .weather-description {
-  color: #feeb40;
+  color: #f2f6f7;
 }
 .btn {
   background-color: #d08a36;
@@ -40,6 +40,6 @@ hr {
   margin: 40px 20px;
 }
 .temperature {
-  font-size: larger;
-  color: #f2f6f7;
+  font-size: 23px;
+  color: #feeb40;
 }
