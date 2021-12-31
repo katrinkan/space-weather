@@ -24,6 +24,7 @@
   color: #f2f6f7;
   border: solid #f2f6f7;
   transition: 0.4s ease-in-out;
+  max-width: 187px;
 }
 .btn:hover {
   background-color: #f2f6f7;
@@ -35,6 +36,9 @@
   color: #d08a36;
   border-color: #d08a36;
 }
+.btn-info {
+  background-color: #1c3e55;
+}
 
 hr {
   margin: 40px 20px;
@@ -42,4 +46,9 @@ hr {
 .temperature {
   font-size: 23px;
   color: #feeb40;
+}
+
+.col-6 {
+  padding-top: 10px;
+  text-align: center;
 }
